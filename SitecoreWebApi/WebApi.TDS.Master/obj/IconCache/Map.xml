@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Custom" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Custom/Service" ItemIcon="/~/icon/Applications/32x32/form_blue.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Custom/Service/Data/Image" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Custom/Service/Data/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Custom/Service/Data" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Custom/Service/Data/Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+</ItemIconCache>
